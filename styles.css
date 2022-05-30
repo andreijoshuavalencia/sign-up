@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.building-logo{
+    width: 42vw;
+    height: 100vh;
+}
+.odin.logo{
+    background-color:hsla(0, 0%, 0%, 0.137);;
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    display: flex;
+    
+}
+.odin{
+    height: 200px;
+    display: flex;
+}
